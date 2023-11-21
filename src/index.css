@@ -1,0 +1,19 @@
+.A{
+  background-color:rgb(28, 164, 28);
+  color: azure;
+  height:40px;
+  width:80px;
+  margin-right: 20px;
+  border-radius: 15%;
+  
+}
+.B{
+  background-color:rgb(252, 47, 47);
+  color: azure;
+  height:40px;
+  width:80px;
+  border-radius: 15%;
+}
+.C{
+text-align: center;
+}
